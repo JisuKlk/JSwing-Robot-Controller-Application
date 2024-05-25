@@ -58,7 +58,7 @@ This file contains the utility functions for controlling the robot's movements a
 
 3. **Compile the Java Files:**
     ```bash
-    javac -d bin src/imvm/jswing/alvaro/main/PracticaPuntuableUF5.java src/imvm/jswing/alvaro/utils/MoveUtils.java
+    javac -d bin javaswing/src/main/java/imvm/jswing/alvaro/main/PracticaPuntuableUF5.java javaswing/src/main/java/imvm/jswing/alvaro/utils/MoveUtils.java
     ```
 
 4. **Run the Main Class:**
