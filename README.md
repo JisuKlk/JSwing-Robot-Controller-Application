@@ -49,3 +49,30 @@ This file contains the utility functions for controlling the robot's movements a
 
    ```bash
    git clone https://github.com/JisuKlk/ProgUF5.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd ProgUF5
+    ```
+
+3. **Compile the Java Files:**
+    ```bash
+    javac -d bin src/imvm/jswing/alvaro/main/PracticaPuntuableUF5.java src/imvm/jswing/alvaro/utils/MoveUtils.java
+    ```
+
+4. **Run the Main Class:**
+    ```bash
+    java -cp bin imvm.jswing.alvaro.main.PracticaPuntuableUF5
+    ```
+
+## Usage
+- **Move:**
+    - Press whether move forward or backward to move the robot
+- **Rotate:**
+    - Press the direction you want to rotate the robot 90 degrees to the selected direction
+- **Save/Load:**
+    - You can either chose to save the state to save the actual position of the bot on a file, or to load an already created file to get the position back
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
