@@ -7,7 +7,7 @@ This Java application provides a simple graphical interface to control a robot's
 ## Author
 
 - **App by:** Álvaro Fernández
-- **Github (Personal):** [JisuKlk](https://github.com/JisuKlk)
+- **Github:** [JisuKlk](https://github.com/JisuKlk)
 
 ## Features
 
