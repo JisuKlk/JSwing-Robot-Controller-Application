@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Java application provides a simple graphical interface to control a robot's movement on a grid. The robot can move forward, backward, and turn left or right. The application also allows the robot's state to be saved to a file and loaded from a file.
+This Java application provides a simple graphical interface to control a robot's movement on a grid. The robot can move forward, backward, and turn left or right. The application also allows the robot's state to be saved to a file and loaded from a file. It is a simple application to learn JSwing
 
 ## Author
 
